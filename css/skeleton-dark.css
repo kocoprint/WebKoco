@@ -55,7 +55,7 @@
 }
 
 /* For devices larger than 550px */
-@media (min-width: 680px) {
+@media (min-width: 550px) {
   .container {
     width: 80%; }
   .column,
@@ -95,7 +95,7 @@ h1 { font-size:24px; line-height: 64px; letter-spacing: 0;}
 
 
 /* Larger than phablet */
-@media (min-width: 680px) {
+@media (min-width: 550px) {
   h1 { font-size: 48px; line-height: 96px;}
 }
 
