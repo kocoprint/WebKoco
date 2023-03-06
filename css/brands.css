@@ -95,7 +95,6 @@
 .button.button-slack:hover:before {
   content: 'En este enlace podras comunicarte con nosotros y asi poder brindarte una mejor atencion';
   white-space: initial; }
-
 /* Kit */
 .button.button-kit {
   color: #FFFFFF;
@@ -167,3 +166,12 @@
 .button.button-sponsors:hover:before {
     content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
     white-space: initial; }
+
+  /* Boton Regresar*/
+.button.button-regres {
+  color: #FFFFFF;
+  background-color: #16ffa6 }
+.button.button-regres:hover,
+.button.button-regres:hover:before {
+  content: 'En este enlace podras Regresar A la Pagina de inicio';
+  white-space: initial; }
